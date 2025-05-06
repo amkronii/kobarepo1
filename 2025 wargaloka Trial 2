@@ -1,0 +1,30 @@
+<p class="alert alert-danger">MAAF ADA KESALAHAN TEKNIS, MOHON DI IGNORE JUMLAH IPL YANG DI EMAIL SEBELUMNYA.</p>
+
+##
+
+<br>
+<br>
+
+Assalamualaikum #WargaLoka,
+Shalom!
+
+<h3>Yuk Bayar IPL-mu untuk bulan {{formatDate(now; "MMMM")}}</h3>
+
+<p>
+Transfer IPL-mu sebesar <b>Rp 375.000</b> ke:<br><br>
+Nomor Rekening: <b>1220005945608</b><br> 
+Bank: <b>Mandiri</b><br>
+Atas Nama: <b>Deri Natria</b><br>
+Berita Transfer: <b>IPL/Nomor Kavling/Bulan/Tahun</b> (contoh: "IPL KAV 1 JULI 2020")<br>
+<br>
+Dengan pembayaran IPL (Iuran Pengelolaan Lingkungan) lancar, InshaAllah semua keperluan komplek kita (Ruma Loka Jatiwarna) akan terlaksana dengan lancar.
+<br>
+<br>
+Terima kasih atas kerja samanya.
+<br>
+Wassalamualaikum - Shalom.
+<br>
+<br>
+<br>
+<b>👥 Pengurus Ruma Loka Jatiwarna</b>
+</p>
